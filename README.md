@@ -8,7 +8,9 @@ Aku fullstack dev yang berfokus pada efisiensi kode dan skalabilitas aplikasi, d
 ## Teknologi
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![Golang](https://img.shields.io/badge/Golang-000000?style=flat-square&logo=go&logoColor=00ADD8)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Gin](https://img.shields.io/badge/Gin-000000?style=flat-square&logo=gin&logoColor=008ECF)
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-000000?style=flat-square&logo=nuxt&logoColor=00DC82)
