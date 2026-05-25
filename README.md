@@ -9,21 +9,22 @@ Aku fullstack dev yang berfokus pada efisiensi kode dan skalabilitas aplikasi, d
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Golang](https://img.shields.io/badge/Golang-000000?style=flat-square&logo=go&logoColor=00ADD8)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Gin](https://img.shields.io/badge/Gin-000000?style=flat-square&logo=gin&logoColor=008ECF)
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-000000?style=flat-square&logo=nuxt&logoColor=00DC82)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=B5B5B6)
 ![Svelte](https://img.shields.io/badge/Svelte-000000?style=flat-square&logo=svelte&logoColor=#FF3E00)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 
 ![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=E0234E)
 ![ExpressJS](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=B5B5B6)
+![Gin](https://img.shields.io/badge/Gin-000000?style=flat-square&logo=gin&logoColor=008ECF)
 
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Docker](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=316192)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
 
 # Statistik
